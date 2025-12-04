@@ -1,8 +1,8 @@
 from tkinter import *
-from view import interfaz
+from view import vista
 class App():
     def __init__(self,ventana):
-        interfaz.InterfacesMenu(ventana)
+        vista.Menu(ventana)
 
 if __name__=="__main__":
     ventana=Tk()
