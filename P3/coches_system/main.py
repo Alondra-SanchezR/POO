@@ -1,8 +1,9 @@
 from tkinter import *
-from view import vista
+from view.vista import VistaGestion
+
 class App():
     def __init__(self,ventana):
-        vista.Menu(ventana)
+        VistaGestion(ventana)
 
 if __name__=="__main__":
     ventana=Tk()
