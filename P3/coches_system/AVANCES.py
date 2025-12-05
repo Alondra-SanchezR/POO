@@ -43,4 +43,15 @@ Productos Entregables:
 Productos entregables:
     **Interacción con la funcionalidad (controlador) de las interfaces anteriores.
     **Nombre del Commit: "commit_04_12_25".
+
+5 DICIEMBRE
+  1) CONTROLADOR:
+      1.1 insertar camiones()
+      1.2 consultar_camiones()
+      1.3 cambiar_camiones()
+      1.4 borrar_camiones()
+
+ Productos entregables:
+    **Interacción con la funcionalidad (controlador) de las interfaces anteriores.
+    **Nombre del Commit: "commit_05_12_25".     
 """
